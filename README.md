@@ -1,4 +1,6 @@
-¿Es el 17/10 un "día peronista"?
+# ¿Es el 17/10 un "día peronista"?
+
+**[Ver la página →](https://vegafabianr.github.io/diecisiete_octubre/)** · El análisis completo está en `analisis_17_10.ipynb`.
 
 Crucé los datos de lluvia diaria en Buenos Aires (estación OCBA/SMN) con un listado de años de gobierno peronista para ver si el 17 de octubre llueve más bajo un signo político que otro. Aislé la lluvia caída cada 17 de octubre entre 1945 y 2025 y la comparé según hubo o no peronismo ese año. Llovió en el 26% de los 17 de octubre peronistas y en el 26% de los no peronistas: no encontré diferencia.
 
